@@ -203,6 +203,10 @@ nav ul li a:hover{
         background:var(--primaryColor);
     }
 
+    .main h1{
+        font-size: 30px;
+    }
+
     .main p{
         width: 100%;
         text-align: left;
@@ -221,6 +225,10 @@ nav ul li a:hover{
         width: 100%;
         margin-bottom: 30px;
         box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+
+    .card h1:nth-child(4){
+        font-size: 30px;
     }
 
 
